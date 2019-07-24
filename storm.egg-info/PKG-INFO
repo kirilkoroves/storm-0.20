@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: storm
+Version: 0.20
+Summary: Storm package
+Home-page: https://github.com/kirilkoroves/storm-0.20
+Author: 
+Author-email: 
+License: UNKNOWN
+Description: Storm for Click
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
